@@ -42,7 +42,7 @@ We will also analyze the level of education attained by jobs with high probabili
 ![Edu1](https://user-images.githubusercontent.com/74162219/102030244-f70e9100-3d7f-11eb-96fb-69014d8a5766.png)
 ![Edu2](https://user-images.githubusercontent.com/74162219/102030246-f83fbe00-3d7f-11eb-83e5-46f41978fb47.png)
 
-### Job aegments at risk
+### Job segments at risk
 As a result, a large population of employees in the lower wage group with low education level are highly vulnerable to job displacement in the future. We also notice a few high paying jobs such as accountants, sales representatives and managers (general/service/operational) could also face job losses due to increased automation of repetitive tasks.
 
 ![Emp](https://user-images.githubusercontent.com/74162219/102030344-713f1580-3d80-11eb-8b93-06efe52616ce.png)
