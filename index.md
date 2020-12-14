@@ -1,4 +1,6 @@
-## Job Automation and the Future Employment
+# Job Automation and the Future Employment
+
+## Introduction
 
 Numerous studies have emerged claiming that AI, robotics and other forms of smart automation will displace US jobs in the coming 15 to 20 years. This digital revolution has unleashed a new wave of advanced machines, further automating complex tasks and jeopardizing skilled workers in positions once considered difficult to automate. Research increasingly shows that these disruptive technologies – predictive analytics, artificial intelligence, the Internet of Things, automation and robotics – are not only becoming better, but are also being combined to increase productivity and growth.
 
