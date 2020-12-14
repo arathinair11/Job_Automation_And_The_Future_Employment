@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Numerous studies have emerged claiming that AI, robotics and other forms of smart automation will displace US jobs in the coming 15 to 20 years. This digital revolution has unleashed a new wave of advanced machines, further automating complex tasks and jeopardizing skilled workers in positions once considered difficult to automate. Research increasingly shows that these disruptive technologies – predictive analytics, artificial intelligence, the Internet of Things, automation and robotics – are not only becoming better, but are also being combined to increase productivity and growth. This report highlights significant differences in the degree of automatability of jobs by industry sector.
+Numerous studies have emerged claiming that AI, robotics and other forms of smart automation will displace US jobs in the coming 10 to 15 years. This digital revolution has unleashed a new wave of advanced machines, further automating complex tasks and jeopardizing skilled workers in positions once considered difficult to automate. Research increasingly shows that these disruptive technologies – predictive analytics, artificial intelligence, the Internet of Things, automation and robotics – are not only becoming better, but are also being combined to increase productivity and growth. This report highlights significant differences in the degree of automatability of jobs by industry sector.
 
 The data for this analysis has been sourced from [U.S. Bureau of Labor Statistics](https://www.bls.gov/emp/tables/educational-attainment.htm), [Mandeley Data](https://data.mendeley.com/datasets/czbvhmzwm3/1) and [O*NET Data](https://www.onetonline.org/find/descriptor/result/4.C.3.b.2)
 
@@ -12,7 +12,7 @@ The data for this analysis has been sourced from [U.S. Bureau of Labor Statistic
 
 
 ### Automation in current workforce
-We will first take a look at the adoption of automation in the existing US workforce. The graph below illustrates that the majority of the US workforce is increasingly adopting automation and newer technologies across all sectors. 23% of current jobs in the US are highly automated, 55.7% of the jobs fall into the morderate automation range, and only 23% of the jobs are least affected by automation.
+We will first take a look at the adoption of automation in the existing US workforce. The graph below illustrates that most of the US workforce is increasingly adopting automation and newer technologies across all sectors. 23% of current jobs in the US are highly automated, 55.7% of the jobs fall into the moderate automation range, and only 23% of the jobs are least affected by automation.
 
 ![Jobs at risk](https://user-images.githubusercontent.com/74162219/102028280-659b2100-3d77-11eb-987f-197fe3d22b70.png)
 
