@@ -1,4 +1,4 @@
-## Job Automation And The Future Employment
+## Job Automation and The Future Employment
 
 
 ### Introduction
